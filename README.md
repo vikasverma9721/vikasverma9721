@@ -1,4 +1,4 @@
-![DATA1](https://github.com/user-attachments/assets/3511fc74-2d68-46f4-9440-e349cfd00d94)
+![DATA1](https://github.com/user-attachments/assets/c84a7f0c-529c-4b68-8f6a-34ca56281e3b)
 # 💫 About Me:
 # Hi👋 I'm Vikas Verma 
 <br>🎓 I’m currently working on building a strong foundation in Python, statistics, and data analysis as a first‑semester BSc Data Science student.<br><br>👯 I’m looking to collaborate on beginner‑friendly data projects, notebooks, and small ML experiments that help me learn real‑world problem solving.<br><br>🤝 I’m looking for help with writing clean Python code, mastering SQL queries, and understanding core math behind data science.<br><br>🌱 I’m currently learning Python, Excel, basic statistics, and Git/GitHub to manage and share my projects.<br><br>💬 Ask me about my learning journey in data science, how I organize my study routine, or the projects I’m planning next.<br><br>⚡ Fun fact: I enjoy turning daily life problems into small coding or data projects to practice what I learn.
