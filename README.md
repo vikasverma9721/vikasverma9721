@@ -4,6 +4,10 @@
 
 ###
 
+![My Banner](Profile.jpg)
+
+###
+
 <h1 align="left">💫 About Me:</h1>
 
 ###
