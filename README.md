@@ -1,9 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=header&reversal=true&text=Hi%F0%9F%91%8B%20I'm%20Vikas%20Verma&fontSize=65&fontColor=black&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
 ![My Banner](Profile.jpg)
 
 ###
